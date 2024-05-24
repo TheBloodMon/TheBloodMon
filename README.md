@@ -6,4 +6,4 @@ My name is Pedro
 
 -And I'm developing a game
 
--I am using this space so that you can help me with its creation through ideas and oth
+-I am using this space so that you can help me create, through critical ideas
